@@ -3,6 +3,7 @@
 
 Este repositório contém a solução do PSET1 CASH
 
+# Asista o vídeo da explicação do problema
 [![Assistir Vídeo](https://img.youtube.com/vi/mPQHKi-qjRk/0.jpg)](https://www.youtube.com/watch?v=mPQHKi-qjRk&t=1s&ab_channel=Funda%C3%A7%C3%A3oEstudar)
 
 # Algoritmos Gulosos ou Algoritmos Ambiciosos
